@@ -3,7 +3,8 @@ Programs implemented in IS lab
 
 ###Caeser Cipher Cryptosystem 
 
-        ```
+    ```
+    
             python caesar.py
             Plaintext
             hello ashutosh
@@ -12,11 +13,13 @@ Programs implemented in IS lab
             Plaintext :  hello ashutosh
             Cipertext :  lipps ewlyxswl
             Decrypted text :  hello ashutosh
-        ```
+
+    ```
 
 ###Vigenère Cipher Cryptosystem
         
-        ```
+    ```
+
             python Vigenere.py 
             helloashutosh
             good
@@ -24,11 +27,13 @@ Programs implemented in IS lab
             Plaintext: helloashutosh
             Encrytped: nszouogkahcvn
             Decrytped: helloashutosh
-        ```
+        
+    ```
 
 ###Rotor Machine Cryptosystem
 
-        ```
+    ```
+    
             python rotor.py 
             Plaintext 
             hello bro
@@ -45,4 +50,5 @@ Programs implemented in IS lab
             Retreival string from rotor 3 :  olssv iyv
             Retreival string from rotor 2 :  jgnnq dtq
             Retreival string from rotor 1 [Original String] :  hello bro
-        ```
+    
+    ```
