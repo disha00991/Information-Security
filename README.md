@@ -1,7 +1,7 @@
 # Information-Security
 Programs implemented in IS lab
 
-    ###Caeser Cipher Cryptosystem 
+###Caeser Cipher Cryptosystem 
 
         ```
             python caesar.py
@@ -14,7 +14,7 @@ Programs implemented in IS lab
             Decrypted text :  hello ashutosh
         ```
 
-    ###Vigenère Cipher Cryptosystem
+###Vigenère Cipher Cryptosystem
         
         ```
             python Vigenere.py 
@@ -26,7 +26,7 @@ Programs implemented in IS lab
             Decrytped: helloashutosh
         ```
 
-    ###Rotor Machine Cryptosystem
+###Rotor Machine Cryptosystem
 
         ```
             python rotor.py 
